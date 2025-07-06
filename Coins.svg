@@ -14,8 +14,8 @@
     <rect
        x="230.91833"
        y="718.4126"
-       width="1932.8719"
-       height="906.5683"
+       width="3318.7852"
+       height="1813.3093"
        id="rect246" />
   </defs>
   <g
@@ -27,13 +27,31 @@
        height="512"
        x="1.1368684e-13"
        y="1.4210855e-14" />
+    <rect
+       style="fill:#000000;fill-opacity:0.996078;stroke-width:0.264583"
+       id="rect692"
+       width="512"
+       height="512"
+       x="1.4210855e-14"
+       y="-7.1054274e-15" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.996078;stroke-width:0.264583"
+       id="rect694"
+       width="500"
+       height="500"
+       x="6"
+       y="6" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-60.799986,-5.7973476)"
+       transform="matrix(0.26458333,0,0,0.26458333,-246.47302,-16.38916)"
        id="text244"
-       style="font-weight:bold;font-size:500px;font-family:'Bolts SF';-inkscape-font-specification:'Bolts SF Bold';text-align:center;white-space:pre;shape-inside:url(#rect246);fill:#000000;fill-opacity:0.996078"><tspan
-         x="336.60429"
-         y="1169.2056"
-         id="tspan849">COINS</tspan></text>
+       style="font-weight:bold;font-size:266.667px;font-family:'Bolts SF';-inkscape-font-specification:'Bolts SF Bold';text-align:center;white-space:pre;shape-inside:url(#rect246);fill:#000000;fill-opacity:0.996078"><tspan
+         x="1537.5101"
+         y="958.8356"
+         id="tspan734">COIN
+</tspan><tspan
+         x="1048.5762"
+         y="1292.1693"
+         id="tspan736">DIRECTORY</tspan></text>
   </g>
 </svg>

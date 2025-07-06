@@ -27,13 +27,31 @@
        height="512"
        x="0"
        y="-1.4210855e-14" />
+    <rect
+       style="fill:#000000;fill-opacity:0.996078;stroke-width:0.264583"
+       id="rect865"
+       width="512"
+       height="512"
+       x="0"
+       y="2.8421709e-14" />
+    <rect
+       style="fill:#ffffff;fill-opacity:0.996078;stroke-width:0.264583"
+       id="rect867"
+       width="500"
+       height="500"
+       x="6"
+       y="6" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,73.852622,157.89465)"
+       transform="matrix(0.26458333,0,0,0.26458333,69.24879,132.95935)"
        id="text499"
-       style="font-weight:bold;font-size:400px;font-family:'Bolts SF';-inkscape-font-specification:'Bolts SF Bold';text-align:center;white-space:pre;shape-inside:url(#rect501);fill:#000000;fill-opacity:0.996078"><tspan
-         x="-216.16913"
-         y="514.5801"
-         id="tspan1029">TOKENS</tspan></text>
+       style="font-weight:bold;font-size:266.667px;font-family:'Bolts SF';-inkscape-font-specification:'Bolts SF Bold';text-align:center;white-space:pre;shape-inside:url(#rect501);fill:#000000;fill-opacity:0.996078"><tspan
+         x="194.49717"
+         y="394.3688"
+         id="tspan907">TOKEN
+</tspan><tspan
+         x="-144.70307"
+         y="727.70254"
+         id="tspan909">DIRECTORY</tspan></text>
   </g>
 </svg>
