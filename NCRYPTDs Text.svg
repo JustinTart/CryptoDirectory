@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="119.98358mm"
+   height="18.002249mm"
+   viewBox="0 0 119.98358 18.002249"
+   version="1.1"
+   id="svg1136"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1138"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.97993827"
+     inkscape:cx="150.00945"
+     inkscape:cy="89.291339"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="1672"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1133">
+    <rect
+       x="70.412598"
+       y="147.96851"
+       width="196.95119"
+       height="121.43622"
+       id="rect1327" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1335"
+       transform="matrix(1.0901545,0,0,1.3125,-3.4228481,-2.8113756)">
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:19.05px;line-height:0;font-family:'Bolts SF';-inkscape-font-specification:'Bolts SF Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:0.996078;stroke-width:0.264583"
+         x="49.639294"
+         y="15.858"
+         id="text1259"><tspan
+           sodipodi:role="line"
+           id="tspan1257"
+           style="font-size:19.05px;direction:rtl;fill:#000000;stroke-width:0.264583"
+           x="51.719296"
+           y="15.858"
+           dx="2 0 0.079999998">NCRYPTD</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(0.16964662,0,0,0.16964662,79.724893,-21.504916)"
+         id="text1325"
+         style="font-weight:bold;font-size:80px;font-family:'Bolts SF';-inkscape-font-specification:'Bolts SF Bold';text-align:center;direction:rtl;white-space:pre;shape-inside:url(#rect1327);fill:#000000;fill-opacity:0.996078"><tspan
+           x="137.00766"
+           y="220.09571"
+           id="tspan1373">S</tspan></text>
+    </g>
+  </g>
+</svg>
