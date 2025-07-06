@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="478.68423mm"
+   height="76.312073mm"
+   viewBox="0 0 478.68423 76.312073"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <rect
+       x="-1154.5917"
+       y="153.94556"
+       width="3703.2458"
+       height="1556.5605"
+       id="rect501" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-16.657874,-217.84397)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,73.852622,157.89465)"
+       id="text499"
+       style="font-weight:bold;font-size:400px;font-family:'Bolts SF';-inkscape-font-specification:'Bolts SF Bold';text-align:center;white-space:pre;shape-inside:url(#rect501);fill:#000000;fill-opacity:0.996078"><tspan
+         x="-216.16913"
+         y="514.5801"
+         id="tspan553">TOKENS</tspan></text>
+  </g>
+</svg>
