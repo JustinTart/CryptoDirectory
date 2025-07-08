@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920mm"
+   height="1080mm"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg914"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs911">
+    <rect
+       x="1257.222"
+       y="1191.9117"
+       width="6612.6616"
+       height="2579.7544"
+       id="rect1091" />
+  </defs>
+  <g
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:0.996078;stroke-width:0.264583"
+       id="rect1035"
+       width="1920"
+       height="1080"
+       x="5.6843419e-14"
+       y="4.9737992e-14" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-253.26088,5.9069146)"
+       id="text1089"
+       style="font-weight:bold;font-size:666.667px;font-family:'Bolts SF';-inkscape-font-specification:'Bolts SF Bold';text-align:center;white-space:pre;shape-inside:url(#rect1091);shape-padding:48.9827;fill:#000000;fill-opacity:0.996078"><tspan
+         x="3307.2185"
+         y="1841.9528"
+         id="tspan438"><tspan
+           dx="0 0 0 0 0 -0.00012207031"
+           style="fill:#ffffff"
+           id="tspan436">TOKEN </tspan></tspan><tspan
+         x="2459.2185"
+         y="2675.2865"
+         id="tspan442"><tspan
+           dx="0 0 0 0 0 0 -0.00021362305"
+           style="fill:#ffffff"
+           id="tspan440">DIRECTORY</tspan></tspan></text>
+  </g>
+</svg>
