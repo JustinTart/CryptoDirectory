@@ -1,38 +1,76 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>W3.CSS Template</title>
+<title>Crypto Directory</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<style>
-body,h1 {font-family: "Raleway", sans-serif}
-body, html {height: 100%}
-.bgimg {
-  background-image: url('/w3images/forestbridge.jpg');
-  min-height: 100%;
-  background-position: center;
-  background-size: cover;
-}
-</style>
 </head>
 <body>
 
-<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
-  <div class="w3-display-topleft w3-padding-large w3-xlarge">
-    Logo
-  </div>
-  <div class="w3-display-middle">
-    <h1 class="w3-jumbo w3-animate-top">COMING SOON</h1>
-    <hr class="w3-border-grey" style="margin:auto;width:40%">
-    <p class="w3-large w3-center">35 days left</p>
-  </div>
-  <div class="w3-display-bottomleft w3-padding-large">
-    Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="#home" class="w3-bar-item w3-button"><img src="https://raw.githubusercontent.com/JustinTart/CryptoDirectory/refs/heads/main/NCRYPTDs%20Text.webp" alt="NCRYPTDs" width="120" height="18"></a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#directory" class="w3-bar-item w3-button">Directory</a>
+      <a href="#about" class="w3-bar-item w3-button">About</a>
+      
+    </div>
   </div>
 </div>
 
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+  <img class="w3-image" src="https://raw.githubusercontent.com/JustinTart/CryptoDirectory/refs/heads/main/NCRYPTDs%20CRYPTO%20DIRECTORY.webp" alt="Crypto Directory" width="1500" height="800">
+  </header>
+
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+  <!-- Project Section -->
+ <div class="w3-container w3-padding-8" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-8">About</h3>
+    <p><b>Welcome to the Crypto Directory</b><br>
+Explore the world of digital assets with our easy-to-navigate directory, designed to help you quickly find and understand the top cryptocurrencies in the market.<br>
+We’ve organized everything into two simple categories:<br>
+<ul><li id="directory">Coins – Native cryptocurrencies that operate on their own blockchain (e.g., Bitcoin, Ethereum, Litecoin).</li>
+<li>Tokens – Digital assets built on existing blockchains, serving various functions from utility and governance to NFTs and DeFi.</li>
+</ul>
+  <p>Whether you're a beginner or an experienced trader, this directory is your streamlined resource for discovering and learning about crypto coins and tokens.</p>
+    </p>
+  </div>
+  
+    
+  <!-- About Section -->
+  
+<div class="w3-row-padding">
+    <div class="w3-half">
+      <div class="w3-display-container">
+     <a href="coin.html" id="directory"><img style="display: block; margin: auto; width: 80%;" src="https://raw.githubusercontent.com/JustinTart/CryptoDirectory/refs/heads/main/Coins.webp" alt="COIN DIRECTORY" style="width:100%"></a>
+        <br>
+      </div>
+    </div>
+    <div class="w3-half">
+      <div class="w3-display-container">
+     <a href="token.html"><img style="display: block; margin: auto; width: 80%;" src="https://raw.githubusercontent.com/JustinTart/CryptoDirectory/refs/heads/main/Tokens.webp" alt="TOKEN DIRECTORY" style="width:100%"></a>
+       
+      </div>
+
+      <br>
+      
+    </div>
+  
+ 
+<!-- End page content -->
+</div>
+
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-16">
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+</footer>
+
 </body>
 </html>
-
